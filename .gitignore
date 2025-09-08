@@ -1,0 +1,26 @@
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Arquivos de configuração locais
+*.env
+*.ini
+*.cfg
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Cache de bibliotecas
+.cache/
